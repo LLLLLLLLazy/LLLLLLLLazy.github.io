@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm an undergraduate at Northwestern Polytechnical University. These days, I'm mainly studying quantum computing, especially quantum error correction. I also enjoy computer systems and have worked on processor design and operating systems. I'm curious about new AI models and like trying them out to see what they do well and where they fall short. Most of my work involves turning ideas into working implementations and testing them through experiments.
+I am an undergraduate student at Northwestern Polytechnical University. My current academic focus is quantum computing, particularly quantum error correction. I am also interested in computer systems, including computer architecture and operating systems. In addition, I follow the development of new AI models and am interested in their capabilities, limitations, and practical use. My project experience includes processor design, RTL implementation, FPGA validation, and algorithm development and evaluation.
 
 ## Research Interests
 
