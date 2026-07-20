@@ -9,8 +9,8 @@ I am an undergraduate student at Northwestern Polytechnical University. My inter
 ## Research Interests
 
 - **Computer Systems:** processor microarchitecture, hardware-software co-design, and operating systems
-- **Quantum Error Correction:** low-latency and parallel decoding for quantum LDPC codes
-- **Reliable AI Systems:** retrieval-augmented generation and domain-specific knowledge systems
+- **Quantum Computing:** quantum algorithms, systems, and emerging applications, with a current focus on learning quantum error correction
+- **AI Models and Tools:** practical use of new models and understanding their capabilities and limitations
 
 ## Education
 
