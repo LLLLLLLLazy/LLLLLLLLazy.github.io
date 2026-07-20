@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student at Northwestern Polytechnical University. My current academic focus is quantum computing, particularly quantum error correction. I am also interested in computer systems, including computer architecture and operating systems. In addition, my interests include new AI models and their practical use, emerging consumer electronics, game engines, and game development. My project experience includes quantum error-correction decoding, processor design, RTL implementation, FPGA validation, and algorithm development and evaluation.
+I am an undergraduate student at Northwestern Polytechnical University. My current academic focus is quantum computing, particularly quantum error correction. My broader interests span computer systems—particularly computer architecture and operating systems—as well as new AI models and their practical applications, emerging consumer hardware, game engines, and game development. My project experience includes quantum error-correction decoding, processor design, RTL implementation, FPGA validation, and algorithm development and evaluation.
 
 ## Research Interests
 
