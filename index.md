@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student in the Computer Science and Technology Top Talent Program at Northwestern Polytechnical University. My interests center on computer architecture, operating systems, and efficient decoding algorithms. I enjoy building and evaluating complete systems, from RTL design and FPGA validation to algorithm implementation and experimental analysis.
+I am an undergraduate student at Northwestern Polytechnical University. My interests center on computer architecture, operating systems, and efficient decoding algorithms. I enjoy building and evaluating complete systems, from RTL design and FPGA validation to algorithm implementation and experimental analysis.
 
 ## Research Interests
 
@@ -18,11 +18,7 @@ I am an undergraduate student in the Computer Science and Technology Top Talent 
 
 ### Northwestern Polytechnical University
 
-<span class="entry-meta">B.Eng. Candidate, Computer Science and Technology (Top Talent Program) · Sep. 2023 - Jun. 2027 (expected)</span>
-
-- GPA: **3.89 / 4.10**, top 7%
-- Selected coursework: Computer Organization and Architecture (97/100), Operating Systems (99/100), Computer System Design (99/100), and Digital Logic Design (92/100)
-- English proficiency: CET-4 and CET-6
+<span class="entry-meta">Undergraduate Student</span>
 
 </div>
 
