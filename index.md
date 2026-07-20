@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student at Northwestern Polytechnical University. My current focus is quantum computing, particularly quantum error correction, and I am also interested in computer systems, including computer architecture and operating systems. Beyond these areas, I enjoy exploring new AI models, their capabilities and limitations, and their practical applications. I like building and evaluating complete systems, from RTL design and FPGA validation to algorithm implementation and experimental analysis.
+I'm an undergraduate at Northwestern Polytechnical University. These days, I'm mainly studying quantum computing, especially quantum error correction. I also enjoy computer systems and have worked on processor design and operating systems. I'm curious about new AI models and like trying them out to see what they do well and where they fall short. Most of my work involves turning ideas into working implementations and testing them through experiments.
 
 ## Research Interests
 
@@ -43,6 +43,8 @@ I am an undergraduate student at Northwestern Polytechnical University. My curre
 ### LoongArch32 Dual-Issue Pipelined Processor
 
 <span class="entry-meta">Team Lead · Loongson Cup National Student Computer System Capability Challenge</span>
+
+[Project repository on Gitee](https://gitee.com/yan098/cpu-grass.git)
 
 - Led a team in designing an in-order, dual-issue, eight-stage processor from the ground up for the reduced 32-bit LoongArch instruction set.
 - Implemented instruction decoding and dual-issue scheduling in Verilog, and led microarchitecture design and FPGA validation with Vivado.
