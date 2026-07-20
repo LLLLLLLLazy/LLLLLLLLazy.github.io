@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student at Northwestern Polytechnical University. My interests center on computer architecture, operating systems, and efficient decoding algorithms. I enjoy building and evaluating complete systems, from RTL design and FPGA validation to algorithm implementation and experimental analysis.
+I am an undergraduate student at Northwestern Polytechnical University. My current focus is quantum computing, particularly quantum error correction, and I am also interested in computer systems, including computer architecture and operating systems. Beyond these areas, I enjoy exploring new AI models, their capabilities and limitations, and their practical applications. I like building and evaluating complete systems, from RTL design and FPGA validation to algorithm implementation and experimental analysis.
 
 ## Research Interests
 
