@@ -8,8 +8,8 @@ I am an undergraduate student at Northwestern Polytechnical University. My curre
 
 ## Research Interests
 
-- **Computer Systems:** processor microarchitecture, hardware-software co-design, and operating systems
 - **Quantum Computing:** quantum algorithms, systems, and emerging applications, with a current focus on learning quantum error correction
+- **Computer Systems:** processor microarchitecture, hardware-software co-design, and operating systems
 - **AI Models and Tools:** practical use of new models and understanding their capabilities and limitations
 
 ## Education
