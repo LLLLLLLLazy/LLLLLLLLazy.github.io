@@ -22,8 +22,8 @@ avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon-avatar.png
 favicon_dark: ./assets/img/favicon-avatar.png
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+# Copyright footnote
+# Set this to false to hide the copyright notice.
 enable_footnote: true
 
 # Auto Dark Mode
