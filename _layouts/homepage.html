@@ -1,4 +1,5 @@
 {% assign current_lang = page.lang | default: site.lang | default: "en-US" %}
+{% assign current_name = page.display_name | default: site.title %}
 {% assign current_affiliation = page.affiliation | default: site.affiliation %}
 {% assign current_position = page.position | default: site.position %}
 {% assign current_description = page.description | default: site.description %}
@@ -7,7 +8,7 @@
 <!DOCTYPE html>
 <html lang="{{ current_lang }}">
   <head>
-    <title>{{ site.title }} | {{ current_affiliation }}</title>
+    <title>{{ current_name }} | {{ current_affiliation }}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -59,12 +60,12 @@
         </nav>
 
         {% if site.avatar %}
-        <span class="image avatar"><img src="{{ site.avatar | relative_url }}" alt="{% if current_lang == 'zh-CN' %}{{ site.title }} 的头像{% else %}Avatar of {{ site.title }}{% endif %}" /></span>
+        <span class="image avatar"><img src="{{ site.avatar | relative_url }}" alt="{% if current_lang == 'zh-CN' %}{{ current_name }}的头像{% else %}Avatar of {{ current_name }}{% endif %}" /></span>
         {% elsif site.avatar_initials %}
         <div class="avatar-placeholder" role="img" aria-label="Profile photo placeholder">{{ site.avatar_initials }}</div>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+        <h1>{{ current_name }}</h1>
 
         {% if current_position %}
         <position style="font-size:1.10rem;">{{ current_position }}</position>

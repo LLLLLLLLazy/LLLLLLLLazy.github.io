@@ -1,10 +1,11 @@
 ---
 layout: homepage
 lang: zh-CN
+display_name: 严骄阳
 position: 计算机科学与技术专业本科生
 affiliation: 西北工业大学
-description: Jiaoyang Yan 的学术个人主页，主要介绍量子计算、计算机系统相关的科研与项目经历。
-keywords: Jiaoyang Yan, 西北工业大学, 量子计算, 量子纠错, 计算机体系结构, 操作系统, LoongArch
+description: 严骄阳的学术个人主页，主要介绍量子计算、计算机系统相关的科研与项目经历。
+keywords: 严骄阳, Jiaoyang Yan, 西北工业大学, 量子计算, 量子纠错, 计算机体系结构, 操作系统, LoongArch
 canonical: https://LLLLLLLLazy.github.io/zh/
 permalink: /zh/
 ---
