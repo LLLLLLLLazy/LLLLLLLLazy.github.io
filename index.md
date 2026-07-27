@@ -1,5 +1,8 @@
 ---
 layout: homepage
+lang: en-US
+description: Academic homepage of Jiaoyang Yan, an undergraduate computer science student at Northwestern Polytechnical University.
+canonical: https://LLLLLLLLazy.github.io/
 ---
 
 ## About Me

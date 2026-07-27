@@ -19,6 +19,66 @@
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
     transform: scale(1.2)}
+
+.language-switcher {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  margin: 0 auto 18px;
+  padding: 3px;
+  border: 1px solid #d6e1eb;
+  border-radius: 999px;
+  background: #f5f8fb;
+  font-size: 12px;
+  line-height: 1;
+}
+
+.language-switcher a,
+.language-switcher span {
+  min-width: 30px;
+  padding: 6px 8px;
+  border-radius: 999px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.language-switcher a {
+  color: #52697d;
+}
+
+.language-switcher a:hover {
+  background: #e5edf4;
+  color: #043361;
+}
+
+.language-switcher .active {
+  background: #043361;
+  color: #fff;
+  font-weight: 600;
+}
+
+@media (prefers-color-scheme: dark) {
+  .language-switcher {
+    border-color: #3a4d5e;
+    background: #252733;
+  }
+
+  .language-switcher a {
+    color: #aebdca;
+  }
+
+  .language-switcher a:hover {
+    background: #344353;
+    color: #78c9ef;
+  }
+
+  .language-switcher .active {
+    background: #3eb7f0;
+    color: #16202a;
+  }
+}
     /*
     .social-icons a:after {
         content: '';

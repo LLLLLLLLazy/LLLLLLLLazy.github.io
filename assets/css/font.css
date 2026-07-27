@@ -9,3 +9,7 @@ body {
   font-weight:400;
   margin:0
 }
+
+html[lang="zh-CN"] body {
+  font-family: "Noto Serif CJK SC", "Source Han Serif SC", "Songti SC", STSong, serif;
+}
