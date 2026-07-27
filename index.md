@@ -66,6 +66,8 @@ I am an undergraduate student at Northwestern Polytechnical University. My curre
 ## Honors & Awards
 
 <ul class="award-list">
+  <li><strong>National Scholarship</strong></li>
+  <li><strong>First-Class Scholarship of NPU</strong>, Northwestern Polytechnical University</li>
   <li><strong>National Second Prize (Team)</strong>, 9th Loongson Cup National Student Computer System Capability Challenge - Team Lead</li>
   <li><strong>First Prize</strong>, Western China Regional Contest, National Student Computer System Capability Challenge - OS Kernel Implementation Track</li>
   <li><strong>Honorable Mention</strong>, Mathematical Contest in Modeling (MCM)</li>
